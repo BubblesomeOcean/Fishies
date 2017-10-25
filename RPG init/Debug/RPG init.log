@@ -1,0 +1,9 @@
+﻿D:\Visual\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(387,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (RPG init.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  Source.cpp
+d:\art\c++\rpg init\rpg init\source.cpp(127): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+d:\art\c++\rpg init\rpg init\source.cpp(189): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+d:\art\c++\rpg init\rpg init\source.cpp(271): warning C4551: function call missing argument list
+d:\art\c++\rpg init\rpg init\source.cpp(361): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+d:\art\c++\rpg init\rpg init\source.cpp(364): warning C4551: function call missing argument list
+d:\art\c++\rpg init\rpg init\source.cpp(233): warning C4715: 'attack': not all control paths return a value
+  RPG init.vcxproj -> D:\Art\C++\RPG init\Debug\Fishies.exe

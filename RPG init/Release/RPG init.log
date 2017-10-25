@@ -1,0 +1,11 @@
+﻿  Source.cpp
+Source.cpp(127): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+Source.cpp(189): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+Source.cpp(271): warning C4551: function call missing argument list
+Source.cpp(361): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+Source.cpp(364): warning C4551: function call missing argument list
+  Generating code
+d:\art\c++\rpg init\rpg init\source.cpp(233): warning C4715: 'attack': not all control paths return a value
+  All 117 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  RPG init.vcxproj -> D:\Art\C++\RPG init\Release\Fishies.exe
